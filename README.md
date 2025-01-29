@@ -33,7 +33,7 @@
 |47|<img alt="M86" src="ivc-logos/M47.png" height="30px">|அரந்தை|204|அரணை|
 |78|<img alt="M86" src="ivc-logos/M78.png" height="30px">|புர்,புரி|4374|காட|
 |127|<img alt="M86" src="ivc-logos/M127.png" height="30px">|அலகு|237|அலகு|
-|319|<img alt="M86" src="ivc-logos/M319.png" height="30px">|சுழி|2684|நத்தை|
+|319|<img alt="M86" src="ivc-logos/M319.png" height="30px">|முறி|4977|முறி,முறுக்கு|
 |134|<img alt="M86" src="ivc-logos/M134.png" height="30px">|பெரு|4411|பெரு|
 |261|<img alt="M86" src="ivc-logos/M261.png" height="30px">|கோ|2207|கோட்டை|
 |197|<img alt="M86" src="ivc-logos/M197.png" height="30px">|மேல்,மாடம்|5058|மேல்,மாடம்|
@@ -72,7 +72,7 @@
 |?|<img alt="MD2" src="ivc-logos/MD2.png" height="30px">|இரு(ண்)ட|||
 |?|<img alt="M2L4" src="ivc-logos/M2L4.png" height="30px">|இருந்தை|||
 |?|<img alt="MVD2" src="ivc-logos/MVD2.png" height="30px">|வன்னிலைத்திரு|||
-|?|<img alt="MDKD" src="ivc-logos/MDKD.png" height="30px">|அரண்-கண்|||
+|?|<img alt="MDKD" src="ivc-logos/MDKD.png" height="30px">|அரண்-கண், அரங்கண்|||
 |358|<img alt="M358" src="ivc-logos/M358.png" height="30px">|செவ்வூர்|||
 |347|<img alt="M347" src="ivc-logos/M347.png" height="30px">|வேலூர்|||
 |?|<img alt="MB34B" src="ivc-logos/MB34B.png" height="30px">|முன்-நல்வரண், நல்முரண்|||
@@ -82,8 +82,8 @@
 |120|<img alt="M120" src="ivc-logos/M120.png" height="30px">|மும்முன்னோனும், மும்முன்னமும்|||
 |121|<img alt="M121" src="ivc-logos/M121.png" height="30px">|நல்நல்லோனால்|||
 |116|<img alt="M116" src="ivc-logos/M116.png" height="30px">|நல்லை|||
-|112|<img alt="M112" src="ivc-logos/M112.png" height="30px">|நல்லம்|||
+|112|<img alt="M112" src="ivc-logos/M112.png" height="30px">|நல்லம், நலம்|||
 |?|<img alt="MJ4" src="ivc-logos/MJ4.png" height="30px">|நல்லிணை|||
-|?|<img alt="M2L4" src="ivc-logos/M2L4.png" height="30px">|இரு-நல்லம்|||
-|171|<img alt="M171" src="ivc-logos/M171.png" height="30px">|வஞ்சி|||
+|?|<img alt="M2L4" src="ivc-logos/M2L4.png" height="30px">|இருந்தை-நல்லம், நல்லிருந்தை|||
+|171|<img alt="M171" src="ivc-logos/M171.png" height="30px">|நில்வஞ்சி|||
 |?|<img alt="MJ7" src="ivc-logos/MJ7.png" height="30px">|ஏழிணை|||
