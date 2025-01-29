@@ -37,15 +37,16 @@
 |134|<img alt="M134" src="ivc-logos/M134.png" height="30px">|பெரு|4411|பெரு|
 |261|<img alt="M261" src="ivc-logos/M261.png" height="30px">|கோ|2207|கோட்டை|
 |197|<img alt="M197" src="ivc-logos/M197.png" height="30px">|மேல்,மாடம்|5058|மேல்,மாடம்|
-|402|<img alt="M402" src="ivc-logos/M402.png" height="30px">|நாடு|3638|நாடு|
+|402|<img alt="M402" src="ivc-logos/M402.png" height="30px">|முன்-நாடு|3638|நாடு|
 |162|<img alt="M162" src="ivc-logos/M162.png" height="30px">|வேல்|5536|வேல்|
 |181|<img alt="M181" src="ivc-logos/M181.png" height="30px">|வலை|5288|வலை|
 |149|<img alt="M149" src="ivc-logos/M149.png" height="30px">|நல்வழி|3610,5297|நல்வழி|
 |249|<img alt="M249" src="ivc-logos/M249.png" height="30px">|அச்சு,-ச்சு|47|அச்சு|
 |155|<img alt="M155" src="ivc-logos/M155.png" height="30px">|அன்பு, அனுப்பு|329,330|அனுப்பு|
-|49|<img alt="M49" src="ivc-logos/M49.png" height="30px">|குல-,குளம்பு|1829|குளம்பு|
+|83|<img alt="M83" src="ivc-logos/M83.png" height="30px">|இறக்கன்,இற|501|இறக்கம்|
+|49|<img alt="M49" src="ivc-logos/M49.png" height="30px">|நல்-குல-|1829|குளம்பு|
 |50|<img alt="M50" src="ivc-logos/M50.png" height="30px">|ஆட்-, ஆட்டு,ஆத்து|5153|ஆ,ஆடு, ஆட்டு|
-|325|<img alt="M325" src="ivc-logos/M325.png" height="30px">|இலந்த|497|இலை|
+|323|<img alt="M323" src="ivc-logos/M323.png" height="30px">|இல-|497|இலை|
 |325|<img alt="M325" src="ivc-logos/M325.png" height="30px">|இலந்த|497|இலை|
 |326|<img alt="M326" src="ivc-logos/M326.png" height="30px">|இலந்த-நல், நல்-இலந்த|497|இலை|
 |327|<img alt="M327" src="ivc-logos/M327.png" height="30px">|முன்மூ-இருவழி-இல்லவன்|497|இலை|
