@@ -17,13 +17,13 @@
 |M77 No.|Glyph|Tamil|DED|Description|
 |:---:|:---:|:---:|:---:|:---:|
 |86|<img alt="M86" src="ivc-logos/M86.png" height="30px">|வடம்,ட|5220|வடம்|
-|87|<img alt="M86" src="ivc-logos/M87.png" height="30px">|இரு|474|இரு|
-|89|<img alt="M86" src="ivc-logos/M89.png" height="30px">|முன்|5052|முன்|
-|95|<img alt="M86" src="ivc-logos/M95.png" height="30px">|நால்,நல்|3655,3610|நால்,நல்|
-|96|<img alt="M86" src="ivc-logos/M96.png" height="30px">|அய்|2826|அய்|
-|108|<img alt="M86" src="ivc-logos108.png" height="30px">|ஆறு|2485|ஆறு|
-|110|<img alt="M86" src="ivc-logos/M110.png" height="30px">|ஏழு|910|ஏழு|
-|1|<img alt="M86" src="ivc-logos/M1.png" height="30px">|வன்,அன்,வள்,அள்,வர்,அர்||அவன்,அவள்,அவர்|
+|87|<img alt="M87" src="ivc-logos/M87.png" height="30px">|இரு|474|இரு|
+|89|<img alt="M89" src="ivc-logos/M89.png" height="30px">|முன்|5052|முன்|
+|95|<img alt="M95" src="ivc-logos/M95.png" height="30px">|நால்,நல்|3655,3610|நால்,நல்|
+|96|<img alt="M96" src="ivc-logos/M96.png" height="30px">|அய்|2826|அய்|
+|108|<img alt="M108" src="ivc-logos/M108.png" height="30px">|ஆறு|2485|ஆறு|
+|110|<img alt="M110" src="ivc-logos/M110.png" height="30px">|ஏழு|910|ஏழு|
+|1|<img alt="M1" src="ivc-logos/M1.png" height="30px">|வன்,அன்,வள்,அள்,வர்,அர்||அவன்,அவள்,அவர்|
 |328|<img alt="M86" src="ivc-logos/M328.png" height="30px">|உ,ஊ, வ|651,761|உரல்,உரி|
 |373|<img alt="M86" src="ivc-logos/M373.png" height="30px">|ப,பா|3805,4016|பகல், பன், பள்ளம்|
 |374|<img alt="M86" src="ivc-logos/M374.png" height="30px">|ண்,ன்,ந்|2640|(ப)-ண்|
