@@ -7,7 +7,7 @@
 **BTW**:
 
 1. M77 is [Mahadevan's numbering system](https://indusscript.in/)
-2. DED is [Dravidian Entymology Dictionary](https://dsal.uchicago.edu/dictionaries/burrow/
+2. DED is [Dravidian Entymology Dictionary](https://dsal.uchicago.edu/dictionaries/burrow/)
 3. Unicode value for glyphs are from private unicode encoding of font NFM-Inuds Script of Asko Parbola
 
 
@@ -16,7 +16,7 @@
 
 |M77 No.|Glyph|Tamil|DED|Description|
 |:---:|:---:|:---:|:---:|:---:|
-|86||வடம்,ட|5220|வடம்|
+|86|![M86](ivc-logo/M86.png)|வடம்,ட|5220|வடம்|
 |87||இரு|474|இரு|
 |89||முன்|5052|முன்|
 |95||நால்,நல்|3655,3610|நால்,நல்|
