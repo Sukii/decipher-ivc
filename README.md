@@ -15,7 +15,7 @@
 
 |M77 No.|Glyph|Tamil|DED|Description|
 |:---:|:---:|:---:|:---:|:---:|
-|86|<img alt="M86" src="ivc-logos/M86.png" height="30px">|வடம்,ட|5220|வடம்|
+|86|<img alt="M86" src="ivc-logos/M86.png" height="30px">|வடம்,வட-,-ட|5220|வடம்|
 |87|<img alt="M87" src="ivc-logos/M87.png" height="30px">|இரு|474|இரு|
 |89|<img alt="M89" src="ivc-logos/M89.png" height="30px">|முன்|5052|முன்|
 |95|<img alt="M95" src="ivc-logos/M95.png" height="30px">|நால்,நல்|3655,3610|நால்,நல்|
@@ -27,6 +27,8 @@
 |373|<img alt="M373" src="ivc-logos/M373.png" height="30px">|ப,பா|3805,4016|பகல், பன், பள்ளம்|
 |374|<img alt="M374" src="ivc-logos/M374.png" height="30px">|ண்,ன்,ந்|2640|(ப)-ண்|
 |59|<img alt="M59" src="ivc-logos/M59.png" height="30px">|க,கண்,கயல்|1159|கண்|
+|70|<img alt="M70" src="ivc-logos/M70.png" height="30px">|கண்ட|1159|கண்|
+|70|<img alt="M67" src="ivc-logos/M67.png" height="30px">|கொண்ட,கோண்ட|2216|கோண்ட|
 |53|<img alt="M53" src="ivc-logos/M53.png" height="30px">|த,தவ,தன்|3110|தவளை|
 |216|<img alt="M216" src="ivc-logos/M216.png" height="30px">|த,தவ,தன்|3110|தவளை|
 |287|<img alt="M287" src="ivc-logos/M287.png" height="30px">|அர|5159|அர|
