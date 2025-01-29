@@ -43,8 +43,9 @@
 |149|<img alt="M149" src="ivc-logos/M149.png" height="30px">|நல்வழி|3610,5297|நல்வழி|
 |249|<img alt="M249" src="ivc-logos/M249.png" height="30px">|அச்சு,-ச்சு|47|அச்சு|
 |155|<img alt="M155" src="ivc-logos/M155.png" height="30px">|அன்பு, அனுப்பு|329,330|அனுப்பு|
-|49|<img alt="M49" src="ivc-logos/M49.png" height="30px">|குல-,குளம்பு|329,330|குளம்பு|
-|50|<img alt="M50" src="ivc-logos/M50.png" height="30px">|ஆடு, ஆட்டு,ஆத்து|329,330|ஆ,ஆடு, ஆட்டு|
+|49|<img alt="M49" src="ivc-logos/M49.png" height="30px">|குல-,குளம்பு|1829|குளம்பு|
+|50|<img alt="M50" src="ivc-logos/M50.png" height="30px">|ஆட்-, ஆட்டு,ஆத்து|5153|ஆ,ஆடு, ஆட்டு|
+|325|<img alt="M325" src="ivc-logos/M325.png" height="30px">|இல-,இலந்த|497|இலை|
 
 
 ## Clitics
