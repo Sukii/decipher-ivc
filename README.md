@@ -8,7 +8,6 @@
 
 1. M77 is [Mahadevan's numbering system](https://indusscript.in/)
 2. DED is [Dravidian Entymology Dictionary](https://dsal.uchicago.edu/dictionaries/burrow/)
-3. Unicode value for glyphs are from private unicode encoding of font NFM-Inuds Script of Asko Parbola
 
 
 ## Simple glyphs
@@ -50,39 +49,39 @@
 
 |M77 No.|Glyph|Tamil|DED|Description|
 |:---:|:---:|:---:|:---:|:---:|
-|97||-ட,-டு,-த,-து|-|-|
-|99||-ர,-ரு,-ற,-று|-|-|
-|123||-யர், -யார்|-|-|
+|97|<img alt="M86" src="ivc-logos/M97.png" height="30px">|-ட,-டு,-த,-து|-|-|
+|99|<img alt="M86" src="ivc-logos/M99.png" height="30px">|-ர,-ரு,-ற,-று|-|-|
+|123|<img alt="M86" src="ivc-logos/M123.png" height="30px">|-யர், -யார்|-|-|
 
 
 ## Complex glyphs
 
 |M77 No.|Glyph|Tamil|DED|Description|
 |:---:|:---:|:---:|:---:|:---:|
-352||ஊர், ஊரார்|752|ஊர், ஊரார்|
-|267||கோட்/கோட்டை|||
-|391||பாகன்|||
-|293||(வல்-)அரண்|||
-|299/287|*|*-அரண்|||
-|296||வழி,அற-வழி|||
-|43||நல்-அறண்|||
-|8||வேலன்,வள்ளி|||
-|65||பெருங்கண்|||
-|199||மேல்-வள்ளி|||
-|375||போடு,பட்டு,படு,பட்டி|||
-|?||இரு(ண்)ட|||
-|?||இருந்தை|||
-|?||வன்னிலைத்திரு|||
-|?||அரண்-கண்|||
-|358||செவ்வூர்|||
-|347||வேலூர்|||
-|?||முன்-நல்வரண், நல்முரண்|||
-|415||முப்பேடு|||
-|298||(வல்-)அறந்தை|||
-|120||மும்முன்னமும்|||
-|116||நல்லை|||
-|112||நல்லம்|||
-|?||நல்லிணை|||
-|?||இரு-நல்லம்|||
-|171||வஞ்சி|||
-|?||ஏழிணை|||
+352|<img alt="M352" src="ivc-logos/M352.png" height="30px">|ஊர், ஊரார்|752|ஊர், ஊரார்|
+|267|<img alt="M267" src="ivc-logos/M267.png" height="30px">|கோட்/கோட்டை|||
+|391|<img alt="M391" src="ivc-logos/M391.png" height="30px">|பாகன்|||
+|293|<img alt="M293" src="ivc-logos/M293.png" height="30px">|(வல்-)அரண்|||
+|299/287|<img alt="M299-M287" src="ivc-logos/M299-M287.png" height="30px">|*-அரண்|||
+|296|<img alt="M296" src="ivc-logos/M296.png" height="30px">|வழி,அற-வழி|||
+|43|<img alt="M43" src="ivc-logos/M43.png" height="30px">|நல்-அறண்|||
+|8|<img alt="M8" src="ivc-logos/M8.png" height="30px">|வேலன்,வள்ளி|||
+|65|<img alt="M65" src="ivc-logos/M65.png" height="30px">|பெருங்கண்|||
+|199|<img alt="M199" src="ivc-logos/M199.png" height="30px">|மேல்-வள்ளி|||
+|375|<img alt="M375" src="ivc-logos/M375.png" height="30px">|போடு,பட்டு,படு,பட்டி|||
+|?|<img alt="MD2" src="ivc-logos/MD2.png" height="30px">|இரு(ண்)ட|||
+|?|<img alt="M2L4" src="ivc-logos/M2L4.png" height="30px">|இருந்தை|||
+|?|<img alt="MVD2" src="ivc-logos/MVD2.png" height="30px">|வன்னிலைத்திரு|||
+|?|<img alt="MDKD" src="ivc-logos/MDKD.png" height="30px">|அரண்-கண்|||
+|358|<img alt="M358" src="ivc-logos/M358.png" height="30px">|செவ்வூர்|||
+|347|<img alt="M347" src="ivc-logos/M347.png" height="30px">|வேலூர்|||
+|?|<img alt="MB34B" src="ivc-logos/MB34B.png" height="30px">|முன்-நல்வரண், நல்முரண்|||
+|415|<img alt="M415" src="ivc-logos/M415.png" height="30px">|முப்பேடு|||
+|298|<img alt="M298" src="ivc-logos/M298.png" height="30px">|(வல்-)அறந்தை|||
+|120|<img alt="M120" src="ivc-logos/M120.png" height="30px">|மும்முன்னமும்|||
+|116|<img alt="M116" src="ivc-logos/M116.png" height="30px">|நல்லை|||
+|112|<img alt="M112" src="ivc-logos/M112.png" height="30px">|நல்லம்|||
+|?|<img alt="MJ4" src="ivc-logos/MJ4.png" height="30px">|நல்லிணை|||
+|?|<img alt="M2L4" src="ivc-logos/M2L4.png" height="30px">|இரு-நல்லம்|||
+|171|<img alt="M171" src="ivc-logos/M171.png" height="30px">|வஞ்சி|||
+|?|<img alt="MJ7" src="ivc-logos/MJ7.png" height="30px">|ஏழிணை|||
