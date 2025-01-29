@@ -78,7 +78,9 @@
 |?|<img alt="MB34B" src="ivc-logos/MB34B.png" height="30px">|முன்-நல்வரண், நல்முரண்|||
 |415|<img alt="M415" src="ivc-logos/M415.png" height="30px">|முப்பேடு|||
 |298|<img alt="M298" src="ivc-logos/M298.png" height="30px">|(வல்-)அறந்தை|||
-|120|<img alt="M120" src="ivc-logos/M120.png" height="30px">|மும்முன்னமும்|||
+|119|<img alt="M119" src="ivc-logos/M119.png" height="30px">|மும்-முன்னோர், இரு-முன்னோனும், இரு-முன்னமும்||
+|120|<img alt="M120" src="ivc-logos/M120.png" height="30px">|மும்முன்னோனும், மும்முன்னமும்|||
+|121|<img alt="M121" src="ivc-logos/M121.png" height="30px">|நல்நல்லோனால்|||
 |116|<img alt="M116" src="ivc-logos/M116.png" height="30px">|நல்லை|||
 |112|<img alt="M112" src="ivc-logos/M112.png" height="30px">|நல்லம்|||
 |?|<img alt="MJ4" src="ivc-logos/MJ4.png" height="30px">|நல்லிணை|||
