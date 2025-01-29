@@ -45,8 +45,10 @@
 |155|<img alt="M155" src="ivc-logos/M155.png" height="30px">|அன்பு, அனுப்பு|329,330|அனுப்பு|
 |49|<img alt="M49" src="ivc-logos/M49.png" height="30px">|குல-,குளம்பு|1829|குளம்பு|
 |50|<img alt="M50" src="ivc-logos/M50.png" height="30px">|ஆட்-, ஆட்டு,ஆத்து|5153|ஆ,ஆடு, ஆட்டு|
-|325|<img alt="M325" src="ivc-logos/M325.png" height="30px">|இல-, இலந்த|497|இலை|
-|326|<img alt="M326" src="ivc-logos/M326.png" height="30px">|இலந்த-நல்|497|இலை|
+|325|<img alt="M325" src="ivc-logos/M325.png" height="30px">|இலந்த|497|இலை|
+|325|<img alt="M325" src="ivc-logos/M325.png" height="30px">|இலந்த|497|இலை|
+|326|<img alt="M326" src="ivc-logos/M326.png" height="30px">|இலந்த-நல், நல்-இலந்த|497|இலை|
+|327|<img alt="M327" src="ivc-logos/M327.png" height="30px">|முன்மூ-இருவழி-இல்லவன்|497|இலை|
 
 
 ## Clitics
