@@ -4,6 +4,13 @@
 *M.V.Bhaskar and S.K.Venkatesan*
 
 
+**BTW**:
+
+1. M77 is [Mahadevan's numbering system](https://indusscript.in/)
+2. DED is [Dravidian Entymology Dictionary](https://dsal.uchicago.edu/dictionaries/burrow/
+3. Unicode value for glyphs are from private unicode encoding of font NFM-Inuds Script of Asko Parbola
+
+
 ## Simple glyphs
 
 
@@ -35,5 +42,17 @@
 |162||வேல்|5536|வேல்|
 |181||வலை|5288|வலை|
 |149||நல்வழி|3610,5297|நல்வழி|
-|249| | அச்சு,-ச்சு|47|அச்சு|
+|249|| அச்சு,-ச்சு|47|அச்சு|
 |155||அன்பு, அனுப்பு|329,330|அனுப்பு|
+
+
+## Clitics
+
+|M77 No.|Glyph|Tamil|DED|Description|
+|:---:|:---:|:---:|:---:|:---:|
+|97||-ட,-டு,-த,-து|-|-|
+|99||-ர,-ரு,-ற,-று|-|-|
+|123||-யர், -யார்|-|-|
+
+
+
