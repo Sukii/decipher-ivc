@@ -48,6 +48,7 @@
 |83|<img alt="M83" src="ivc-logos/M83.png" height="30px">|இறக்கன்,இற|501|இறக்கம்|
 |49|<img alt="M49" src="ivc-logos/M49.png" height="30px">|நல்-குல-|1829|குளம்பு|
 |50|<img alt="M50" src="ivc-logos/M50.png" height="30px">|ஆட்-, ஆட்டு,ஆத்து|5153|ஆ,ஆடு, ஆட்டு|
+|125|<img alt="M125" src="ivc-logos/M125.png" height="30px">|கவன்,கவன்தி|1322|கவன்,கவன்தி|
 |323|<img alt="M323" src="ivc-logos/M323.png" height="30px">|இல-|497|இலை|
 |325|<img alt="M325" src="ivc-logos/M325.png" height="30px">|இலந்த|497|இலை|
 |326|<img alt="M326" src="ivc-logos/M326.png" height="30px">|இலந்த-நல், நல்-இலந்த|497|இலை|
