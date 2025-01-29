@@ -30,9 +30,9 @@
 |53|<img alt="M86" src="ivc-logos/M53.png" height="30px">|த,தவ,தன்|3110|தவளை|
 |216|<img alt="M86" src="ivc-logos/M216.png" height="30px">|த,தவ,தன்|3110|தவளை|
 |287|<img alt="M86" src="ivc-logos/M287.png" height="30px">|அர|5159|அர|
-|47|<img alt="M86" src="ivc-logos/M47.png" height="30px">|அரந்தை|204|அரணை|
+|47|<img alt="M86" src="ivc-logos/M47.png" height="30px">|அரணை|204|அரணை|
 |78|<img alt="M86" src="ivc-logos/M78.png" height="30px">|புர்,புரி|4374|காட|
-|127|<img alt="M86" src="ivc-logos/M127.png" height="30px">|அலகு|237|அலகு|
+|127|<img alt="M86" src="ivc-logos/M127.png" height="30px">|அலகு, அழகு|237|அலகு|
 |319|<img alt="M86" src="ivc-logos/M319.png" height="30px">|முறி|4977|முறி,முறுக்கு|
 |134|<img alt="M86" src="ivc-logos/M134.png" height="30px">|பெரு|4411|பெரு|
 |261|<img alt="M86" src="ivc-logos/M261.png" height="30px">|கோ|2207|கோட்டை|
@@ -67,7 +67,7 @@
 |43|<img alt="M43" src="ivc-logos/M43.png" height="30px">|நல்-அறண்|||
 |8|<img alt="M8" src="ivc-logos/M8.png" height="30px">|வேலன்,வள்ளி|||
 |65|<img alt="M65" src="ivc-logos/M65.png" height="30px">|பெருங்கண்|||
-|199|<img alt="M199" src="ivc-logos/M199.png" height="30px">|மேல்-வள்ளி|||
+|199|<img alt="M199" src="ivc-logos/M199.png" height="30px">|மேல்-வள்ளி, மாட-வள்ளி|||
 |375|<img alt="M375" src="ivc-logos/M375.png" height="30px">|போடு,பட்டு,படு,பட்டி|||
 |?|<img alt="MD2" src="ivc-logos/MD2.png" height="30px">|இரு(ண்)ட|||
 |?|<img alt="M2L4" src="ivc-logos/M2L4.png" height="30px">|இருந்தை|||
