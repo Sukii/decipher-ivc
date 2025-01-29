@@ -35,7 +35,7 @@
 |47|<img alt="M47" src="ivc-logos/M47.png" height="30px">|அரணை|204|அரணை|
 |78|<img alt="M78" src="ivc-logos/M78.png" height="30px">|புர்,புரி|4374|காட|
 |127|<img alt="M127" src="ivc-logos/M127.png" height="30px">|அலகு, அழகு|237|அலகு|
-|319|<img alt="M319" src="ivc-logos/M319.png" height="30px">|முறி|4977|முறி,முறுக்கு|
+|319|<img alt="M319" src="ivc-logos/M319.png" height="30px">|முறி,முற|4977|முறி,முறுக்கு|
 |134|<img alt="M134" src="ivc-logos/M134.png" height="30px">|பெரு|4411|பெரு|
 |261|<img alt="M261" src="ivc-logos/M261.png" height="30px">|கோ|2207|கோட்டை|
 |197|<img alt="M197" src="ivc-logos/M197.png" height="30px">|மேல்,மாடம்|5058|மேல்,மாடம்|
