@@ -58,7 +58,7 @@
 
 
 ## Clitics
-
+|:---:|:---:|:---:|:---:|:---:|
 |26" src="ivc-logos/M97.png" height="30px">|-ட,-டு,-த,-து|-|-|
 |99|<img alt="M86" src="ivc-logos/M99.png" height="30px">|-ர,-ரு,-ற,-று|-|-|
 |123|<img alt="M86" src="ivc-logos/M123.png" height="30px">|-யர், -யார்|-|-|
