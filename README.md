@@ -29,6 +29,7 @@
 |59|<img alt="M59" src="ivc-logos/M59.png" height="30px">|க,கண்,கயல்|1159|கண்|
 |70|<img alt="M70" src="ivc-logos/M70.png" height="30px">|கண்ட|1159|கண்|
 |70|<img alt="M67" src="ivc-logos/M67.png" height="30px">|கொண்ட,கோண்ட|2216|கோண்ட|
+|124|<img alt="M12" src="ivc-logos/M12.png" height="30px">|உழவன்|688|உழவன்|
 |53|<img alt="M53" src="ivc-logos/M53.png" height="30px">|த,தவ,தன்|3110|தவளை|
 |216|<img alt="M216" src="ivc-logos/M216.png" height="30px">|த,தவ,தன்|3110|தவளை|
 |287|<img alt="M287" src="ivc-logos/M287.png" height="30px">|அர|5159|அர|
@@ -48,7 +49,8 @@
 |83|<img alt="M83" src="ivc-logos/M83.png" height="30px">|இறக்கன்,இற|501|இறக்கம்|
 |49|<img alt="M49" src="ivc-logos/M49.png" height="30px">|நல்-குல-|1829|குளம்பு|
 |50|<img alt="M50" src="ivc-logos/M50.png" height="30px">|ஆட்-, ஆட்டு,ஆத்து|5153|ஆ,ஆடு, ஆட்டு|
-|125|<img alt="M125" src="ivc-logos/M125.png" height="30px">|விலகு|5423|விலகு|
+|124|<img alt="M124" src="ivc-logos/M124.png" height="30px">|ஏர்|2815|ஏர்|
+|125|<img alt="M125" src="ivc-logos/M125.png" height="30px">|விலகு,விட்டு|5423|விலகு|
 |323|<img alt="M323" src="ivc-logos/M323.png" height="30px">|இல-|497|இலை|
 |325|<img alt="M325" src="ivc-logos/M325.png" height="30px">|இலந்த|497|இலை|
 |326|<img alt="M326" src="ivc-logos/M326.png" height="30px">|இலந்த-நல், நல்-இலந்த|497|இலை|
@@ -57,9 +59,7 @@
 
 ## Clitics
 
-|M77 No.|Glyph|Tamil|DED|Description|
-|:---:|:---:|:---:|:---:|:---:|
-|97|<img alt="M86" src="ivc-logos/M97.png" height="30px">|-ட,-டு,-த,-து|-|-|
+|26" src="ivc-logos/M97.png" height="30px">|-ட,-டு,-த,-து|-|-|
 |99|<img alt="M86" src="ivc-logos/M99.png" height="30px">|-ர,-ரு,-ற,-று|-|-|
 |123|<img alt="M86" src="ivc-logos/M123.png" height="30px">|-யர், -யார்|-|-|
 
