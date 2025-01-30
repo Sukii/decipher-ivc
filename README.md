@@ -80,7 +80,7 @@
 |199|<img alt="M199" src="ivc-logos/M199.png" height="30px">|மேல்-வள்ளி, மாட-வள்ளி|||
 |375|<img alt="M375" src="ivc-logos/M375.png" height="30px">|போடு, பட்டு, படு, பட்டி|||
 |?|<img alt="MD2" src="ivc-logos/MD2.png" height="30px">|இரு(ண்)ட|||
-|?|<img alt="M2L4" src="ivc-logos/M2L4.png" height="30px">|இருந்தை|||
+|?|<img alt="M2L4" src="ivc-logos/M2L4.png" height="30px">|இருந்தை-நல்லம், நல்லிருந்தை|||
 |?|<img alt="MVD2" src="ivc-logos/MVD2.png" height="30px">|வன்னிலைத்திரு|||
 |?|<img alt="MDKD" src="ivc-logos/MDKD.png" height="30px">|அரண்-கண், அரங்கண்|||
 |358|<img alt="M358" src="ivc-logos/M358.png" height="30px">|செவ்வூர்|||
@@ -94,6 +94,5 @@
 |116|<img alt="M116" src="ivc-logos/M116.png" height="30px">|நல்லை|||
 |112|<img alt="M112" src="ivc-logos/M112.png" height="30px">|நல்லம், நலம்|||
 |?|<img alt="MJ4" src="ivc-logos/MJ4.png" height="30px">|நல்லிணை|||
-|?|<img alt="M2L4" src="ivc-logos/M2L4.png" height="30px">|இருந்தை-நல்லம், நல்லிருந்தை|||
 |171|<img alt="M171" src="ivc-logos/M171.png" height="30px">|நில்வஞ்சி|||
 |?|<img alt="MJ7" src="ivc-logos/MJ7.png" height="30px">|ஏழிணை|||
