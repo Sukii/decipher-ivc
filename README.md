@@ -58,6 +58,7 @@
 
 
 ## Clitics
+|M77 No.|Glyph|Tamil|DED|Description|
 |:---:|:---:|:---:|:---:|:---:|
 |26" src="ivc-logos/M97.png" height="30px">|-ட,-டு,-த,-து|-|-|
 |99|<img alt="M86" src="ivc-logos/M99.png" height="30px">|-ர,-ரு,-ற,-று|-|-|
