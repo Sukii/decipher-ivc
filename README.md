@@ -25,7 +25,7 @@
 |1|<img alt="M1" src="ivc-logos/M1.png" height="30px">|வன்,அன்,வள்,அள்,வர்,அர்||அவன்,அவள்,அவர்|
 |328|<img alt="M328" src="ivc-logos/M328.png" height="30px">|உ,ஊ, வ|651,761|உரல்,உரி|
 |373|<img alt="M373" src="ivc-logos/M373.png" height="30px">|ப,பா|3805,4016|பகல், பன், பள்ளம்|
-|374|<img alt="M374" src="ivc-logos/M374.png" height="30px">|ண்,ன்,ந்|2640|(ப)-ண்|
+|374|<img alt="M374" src="ivc-logos/M374.png" height="30px">|ண்,ன்,ந்|2640|(ப)-ண்,(ப)னி|
 |397|<img alt="M397" src="ivc-logos/M397.png" height="30px">|மணி,முத்து|4959|மணி,முத்து|
 |59|<img alt="M59" src="ivc-logos/M59.png" height="30px">|க,கண்,கயல்|1159|கண்|
 |70|<img alt="M70" src="ivc-logos/M70.png" height="30px">|கண்ட|1159|கண்|
