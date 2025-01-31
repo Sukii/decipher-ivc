@@ -74,7 +74,7 @@
 |M77 No.|Glyph|Tamil|DED|Description|
 |:---:|:---:|:---:|:---:|:---:|
 |352|<img alt="M352" src="ivc-logos/M352.png" height="30px">|ஊர், ஊரார்|752|ஊர், ஊரார்|
-|267|<img alt="M267" src="ivc-logos/M267.png" height="30px">|கோட்/கோட்டை|||
+|267|<img alt="M267" src="ivc-logos/M267.png" height="30px">|கொட-,கோட்-,கோன்-/கோட்டை|||
 |391|<img alt="M391" src="ivc-logos/M391.png" height="30px">|பாகன்|||
 |293|<img alt="M293" src="ivc-logos/M293.png" height="30px">|(வல்-)அரண்|||
 |299/287|<img alt="M299-M287" src="ivc-logos/M299-M287.png" height="30px">|-அரண்|||
