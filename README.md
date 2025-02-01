@@ -32,7 +32,7 @@
 |70|<img alt="M70" src="ivc-logos/M70.png" height="30px">|கண்ட|1159|கண்|
 |67|<img alt="M67" src="ivc-logos/M67.png" height="30px">|கொண்ட,கோண்ட|2216|கோண்ட|
 |51|<img alt="M51" src="ivc-logos/M51.png" height="30px">|மாறன்,மாற்றம்|5834|மாறன்,மாற்றம்|
-|130|<img alt="M130" src="ivc-logos/M130.png" height="30px">|மாற்றி|5834|மாற்றி|
+|130|<img alt="M130" src="ivc-logos/M130.png" height="30px">|கொள், கடை|5834|கொள், கடை|
 |124|<img alt="M124" src="ivc-logos/M124.png" height="30px">|உழவன்|688|உழவன்|
 |178|<img alt="M178" src="ivc-logos/M178.png" height="30px">|கலகம், கலக்கம்|1304,1303|கலப்பை|
 |53|<img alt="M53" src="ivc-logos/M53.png" height="30px">|த,தவ,தன்|3110|தவளை|
@@ -42,7 +42,7 @@
 |78|<img alt="M78" src="ivc-logos/M78.png" height="30px">|புர்,புரி|4374|புரி,காட|
 |127|<img alt="M127" src="ivc-logos/M127.png" height="30px">|அலகு, அழகு|237|அலகு|
 |319|<img alt="M319" src="ivc-logos/M319.png" height="30px">|முறி,முற|4977|முறி,முறுக்கு|
-|134|<img alt="M134" src="ivc-logos/M134.png" height="30px">|பெரு|4411|பெரு|
+|134|<img alt="M134" src="ivc-logos/M134.png" height="30px">|பெரு,மா,விண்|4411|பெரு,மா,விண்|
 |261|<img alt="M261" src="ivc-logos/M261.png" height="30px">|கோ|2207|கோட்டை|
 |197|<img alt="M197" src="ivc-logos/M197.png" height="30px">|மேல்,மாடம்|5058|மேல்,மாடம்|
 |402|<img alt="M402" src="ivc-logos/M402.png" height="30px">|முன்-நாடு|3638|நாடு|
@@ -51,7 +51,9 @@
 |245|<img alt="M245" src="ivc-logos/M245.png" height="30px">|தட்டி|3036|தட்டி|
 |149|<img alt="M149" src="ivc-logos/M149.png" height="30px">|நல்வழி|3610,5297|நல்வழி|
 |249|<img alt="M249" src="ivc-logos/M249.png" height="30px">|அச்சு,-ச்சு,சரக்கு|47,2353|அச்சு,சரக்கு|
-|155|<img alt="M155" src="ivc-logos/M155.png" height="30px">|அன்பு, அனுப்பு|329,330|அனுப்பு|
+|153|<img alt="M153" src="ivc-logos/M153.png" height="30px">|பெருவன்|4422|பெருவன்|
+|155|<img alt="M155" src="ivc-logos/M155.png" height="30px">|அனுப்பு|330|அனுப்பு|
+|211|<img alt="M211" src="ivc-logos/M211.png" height="30px">|வேல்|5536|வேல்|
 |83|<img alt="M83" src="ivc-logos/M83.png" height="30px">|இறக்கன்,இற|501|இறக்கம்|
 |49|<img alt="M49" src="ivc-logos/M49.png" height="30px">|நல்-குல-|1829|குளம்பு|
 |50|<img alt="M50" src="ivc-logos/M50.png" height="30px">|ஆட்-, ஆட்டு,ஆத்து|5153|ஆ,ஆடு, ஆட்டு|
