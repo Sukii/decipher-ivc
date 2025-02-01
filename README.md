@@ -93,8 +93,8 @@
 |347|<img alt="M347" src="ivc-logos/M347.png" height="30px">|வேலூர்|||
 ||<img alt="MB34B" src="ivc-logos/MB34B.png" height="30px">|முன்-நல்வரண், நல்முரண்|||
 |415|<img alt="M415" src="ivc-logos/M415.png" height="30px">|முப்பேடு|||
-|403|<img alt="M403" src="ivc-logos/M403.png" height="30px">|டன்டன்,பறை|2945|டன்டன்,பறை|
-|404|<img alt="M404" src="ivc-logos/M404.png" height="30px">|டன்டனால்,பற்று,பட்டு|2945,4034|டன்டனால்,பற்று,பட்டு|
+|403|<img alt="M403" src="ivc-logos/M403.png" height="30px">|டன்டன்,பற்று,பட்டு|2945,4034|டன்டன்,பற்று,பட்டு|
+|404|<img alt="M404" src="ivc-logos/M404.png" height="30px">|டன்டனால்,பற்றால்,பெற்றால்|2945,4034|டன்டனால்,பற்றால்,பெற்றால்|
 |298|<img alt="M298" src="ivc-logos/M298.png" height="30px">|(வல்-)அறந்தை|||
 |119|<img alt="M119" src="ivc-logos/M119.png" height="30px">|மும்-முன்னோர், இரு-முன்னோனும், இரு-முன்னமும்||
 |120|<img alt="M120" src="ivc-logos/M120.png" height="30px">|மும்முன்னோனும், மும்முன்னமும்|||
