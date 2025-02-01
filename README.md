@@ -27,7 +27,7 @@
 |373|<img alt="M373" src="ivc-logos/M373.png" height="30px">|ப,பா|3805,4016|பகல், பன், பள்ளம்|
 |374|<img alt="M374" src="ivc-logos/M374.png" height="30px">|ண்,ன்,ந்|2640|(ப)-ண்,(ப)னி|
 |397|<img alt="M397" src="ivc-logos/M397.png" height="30px">|மணி,முத்து|4959|மணி,முத்து|
-|59|<img alt="M59" src="ivc-logos/M59.png" height="30px">|க,கண்,கயல்|1159|கண்|
+|59|<img alt="M59" src="ivc-logos/M59.png" height="30px">|கண்,கவுலி|1338|கண்,கவுலி|
 |70|<img alt="M70" src="ivc-logos/M70.png" height="30px">|கண்ட|1159|கண்|
 |67|<img alt="M67" src="ivc-logos/M67.png" height="30px">|கொண்ட,கோண்ட|2216|கோண்ட|
 |51|<img alt="M51" src="ivc-logos/M51.png" height="30px">|மாறன்,மாற்றம்|5834|மாறன்,மாற்றம்|
@@ -38,7 +38,7 @@
 |216|<img alt="M216" src="ivc-logos/M216.png" height="30px">|த,தவ,தன்|3110|தவளை|
 |287|<img alt="M287" src="ivc-logos/M287.png" height="30px">|அர|5159|அர|
 |47|<img alt="M47" src="ivc-logos/M47.png" height="30px">|அரணை|204|அரணை|
-|78|<img alt="M78" src="ivc-logos/M78.png" height="30px">|புர்,புரி|4374|காட|
+|78|<img alt="M78" src="ivc-logos/M78.png" height="30px">|புர்,புரி|4374|புரி,காட|
 |127|<img alt="M127" src="ivc-logos/M127.png" height="30px">|அலகு, அழகு|237|அலகு|
 |319|<img alt="M319" src="ivc-logos/M319.png" height="30px">|முறி,முற|4977|முறி,முறுக்கு|
 |134|<img alt="M134" src="ivc-logos/M134.png" height="30px">|பெரு|4411|பெரு|
@@ -77,8 +77,8 @@
 |352|<img alt="M352" src="ivc-logos/M352.png" height="30px">|ஊர், ஊரார்|752|ஊர், ஊரார்|
 |267|<img alt="M267" src="ivc-logos/M267.png" height="30px">|கொட-,கோட்-,கோன்-/கோட்டை|||
 |391|<img alt="M391" src="ivc-logos/M391.png" height="30px">|பாகன்|||
-|293|<img alt="M293" src="ivc-logos/M293.png" height="30px">|(வல்-)அரண்|||
-|299/287|<img alt="M299-M287" src="ivc-logos/M299-M287.png" height="30px">|-அரண்|||
+|293|<img alt="M293" src="ivc-logos/M293.png" height="30px">|அரண்|322|அறை|
+|299/287|<img alt="M299-M287" src="ivc-logos/M299-M287.png" height="30px">|அர|322|அறை|
 |296|<img alt="M296" src="ivc-logos/M296.png" height="30px">|வழி, அற-வழி|||
 |43|<img alt="M43" src="ivc-logos/M43.png" height="30px">|நல்-அறண்|||
 |8|<img alt="M8" src="ivc-logos/M8.png" height="30px">|வேலன், வள்ளி|||
