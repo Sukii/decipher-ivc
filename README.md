@@ -40,7 +40,7 @@
 |287|<img alt="M287" src="ivc-logos/M287.png" height="30px">|அர|5159|அர|
 |47|<img alt="M47" src="ivc-logos/M47.png" height="30px">|அரணை|204|அரணை|
 |78|<img alt="M78" src="ivc-logos/M78.png" height="30px">|புர்,புரி|4374|புரி,காட|
-|127|<img alt="M127" src="ivc-logos/M127.png" height="30px">|அலகு, அழகு|237|அலகு|
+|127|<img alt="M127" src="ivc-logos/M127.png" height="30px">|அலகு, அழகு, அங்கு|237|அலகு, அங்கு|
 |319|<img alt="M319" src="ivc-logos/M319.png" height="30px">|முறி,முற|4977|முறி,முறுக்கு|
 |134|<img alt="M134" src="ivc-logos/M134.png" height="30px">|பெரு,மா,விண்|4411|பெரு,மா,விண்|
 |261|<img alt="M261" src="ivc-logos/M261.png" height="30px">|கோ|2207|கோட்டை|
