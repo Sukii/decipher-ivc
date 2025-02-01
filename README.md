@@ -26,8 +26,9 @@
 |328|<img alt="M328" src="ivc-logos/M328.png" height="30px">|உ,ஊ, வ|651,761|உரல்,உரி|
 |373|<img alt="M373" src="ivc-logos/M373.png" height="30px">|ப,பா|3805,4016|பகல், பன், பள்ளம்|
 |374|<img alt="M374" src="ivc-logos/M374.png" height="30px">|ண்,ன்,ந்|2640|(ப)-ண்,(ப)னி|
-|397|<img alt="M397" src="ivc-logos/M397.png" height="30px">|மணி,முத்து|4959|மணி,முத்து|
-|59|<img alt="M59" src="ivc-logos/M59.png" height="30px">|கண்,கவுலி|1338|கண்,கவுலி|
+|397|<img alt="M397" src="ivc-logos/M397.png" height="30px">|மணி,முத்து,திரல்|4959,3245|மணி,முத்து,திரல்|
+|397|<img alt="M397" src="ivc-logos/M397.png" height="30px">|மணி,முத்து,திரல்|4959,3245|மணி,முத்து,திரல்|
+|377|<img alt="M377" src="ivc-logos/M377.png" height="30px">|நல்ல முத்துகள் பல,நல்ல திரல்கள் பல|4959,3245|முத்துகள்,திரல்கள்|
 |70|<img alt="M70" src="ivc-logos/M70.png" height="30px">|கண்ட|1159|கண்|
 |67|<img alt="M67" src="ivc-logos/M67.png" height="30px">|கொண்ட,கோண்ட|2216|கோண்ட|
 |51|<img alt="M51" src="ivc-logos/M51.png" height="30px">|மாறன்,மாற்றம்|5834|மாறன்,மாற்றம்|
@@ -94,7 +95,7 @@
 ||<img alt="MB34B" src="ivc-logos/MB34B.png" height="30px">|முன்-நல்வரண், நல்முரண்|||
 |415|<img alt="M415" src="ivc-logos/M415.png" height="30px">|முப்பேடு|||
 |403|<img alt="M403" src="ivc-logos/M403.png" height="30px">|டன்டன்,பற்று,பட்டு|2945,4034|டன்டன்,பற்று,பட்டு|
-|404|<img alt="M404" src="ivc-logos/M404.png" height="30px">|டன்டனால்,பற்றால்,பெற்றால்|2945,4034|டன்டனால்,பற்றால்,பெற்றால்|
+|404|<img alt="M404" src="ivc-logos/M404.png" height="30px">|டன்டனால்,பற்றால்,பெற்றால், நல்ல பற்று, நல்ல பட்டு|2945,4034|டன்டனால்,பற்றால்,பெற்றால்|
 |298|<img alt="M298" src="ivc-logos/M298.png" height="30px">|(வல்-)அறந்தை|||
 |119|<img alt="M119" src="ivc-logos/M119.png" height="30px">|மும்-முன்னோர், இரு-முன்னோனும், இரு-முன்னமும்||
 |120|<img alt="M120" src="ivc-logos/M120.png" height="30px">|மும்முன்னோனும், மும்முன்னமும்|||
