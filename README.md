@@ -22,7 +22,7 @@
 |96|<img alt="M96" src="ivc-logos/M96.png" height="30px">|அய்|2826|அய்|
 |108|<img alt="M108" src="ivc-logos/M108.png" height="30px">|ஆறு|2485|ஆறு|
 |110|<img alt="M110" src="ivc-logos/M110.png" height="30px">|ஏழு|910|ஏழு|
-|1|<img alt="M1" src="ivc-logos/M1.png" height="30px">|வன்,அன்,வள்,அள்,வர்,அர்||அவன்,அவள்,அவர்|
+|1|<img alt="M1" src="ivc-logos/M1.png" height="30px">|அன்|110|அன்|
 |328|<img alt="M328" src="ivc-logos/M328.png" height="30px">|உ,ஊ, வ|651,761|உரல்,உரி|
 |373|<img alt="M373" src="ivc-logos/M373.png" height="30px">|ப,பா|3805,4016|பகல், பன், பள்ளம்|
 |374|<img alt="M374" src="ivc-logos/M374.png" height="30px">|ண்,ன்,ந்|2640|(ப)-ண்,(ப)னி|
