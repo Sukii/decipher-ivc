@@ -27,8 +27,8 @@
 |373|<img alt="M373" src="ivc-logos/M373.png" height="30px">|ப,பா|3805,4016|பகல், பன், பள்ளம்|
 |374|<img alt="M374" src="ivc-logos/M374.png" height="30px">|ண்,ன்,ந்|2640|(ப)-ண்,(ப)னி|
 |397|<img alt="M397" src="ivc-logos/M397.png" height="30px">|மணி,முத்து,திரல்|4959,3245|மணி,முத்து,திரல்|
-|397|<img alt="M397" src="ivc-logos/M397.png" height="30px">|மணி,முத்து,திரல்|4959,3245|மணி,முத்து,திரல்|
-|377|<img alt="M377" src="ivc-logos/M377.png" height="30px">|நல்ல முத்துகள் பல,நல்ல திரல்கள் பல|4959,3245|முத்துகள்,திரல்கள்|
+|397|<img alt="M397" src="ivc-logos/M397.png" height="30px">|மணி,முத்து,திரள்|4959,3245|மணி,முத்து,திரள்|
+|377|<img alt="M377" src="ivc-logos/M377.png" height="30px">|நல்ல முத்துக்கள் பல, நல்ல திரள்கள் பல|4959,3245|முத்துகள்,திரள்கள்|
 |70|<img alt="M70" src="ivc-logos/M70.png" height="30px">|கண்ட|1159|கண்|
 |67|<img alt="M67" src="ivc-logos/M67.png" height="30px">|கொண்ட,கோண்ட|2216|கோண்ட|
 |51|<img alt="M51" src="ivc-logos/M51.png" height="30px">|மாறன்,மாற்றம்|5834|மாறன்,மாற்றம்|
