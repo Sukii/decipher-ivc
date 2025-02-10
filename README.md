@@ -22,3 +22,7 @@ As part of decipherment we offer four PDFs:
 2. [Semantic decipherment of few lines of text](ivc-readings.pdf)
 3. [Macro-structure of IVC](macro-structures-ivc-script.pdf)
 4. [Macro-structure of IVC - Tamil version](macro-structures-ivc-script-tamil.pdf)
+
+Deciphering lines of pages in Mahadevan's book:
+
+1. [page 39](https://github.com/Sukii/decipher-ivc/blob/main/pages/p39.pdf)
