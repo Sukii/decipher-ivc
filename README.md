@@ -26,3 +26,4 @@ As part of decipherment we offer four PDFs:
 Deciphering lines of pages in Mahadevan's book:
 
 1. [page 39](https://github.com/Sukii/decipher-ivc/blob/main/pages/p39.pdf)
+1. [page 40](https://github.com/Sukii/decipher-ivc/blob/main/pages/p40.pdf)
