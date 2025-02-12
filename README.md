@@ -1,7 +1,7 @@
 # Decipherment of Indus Valley Script
 
 
-*M.V.Bhaskar and S.K.Venkatesan*
+*S.K.Venkatesan*
 
 
 The Indus Valley Script is a logo-syllabic script and has been mostly deciphered. We list a few of the keys to unlock the treasure of the Indus Valley. We refer to M77 and DED below as:
@@ -22,6 +22,7 @@ As part of decipherment we offer four PDFs:
 2. [Semantic decipherment of few lines of text](ivc-readings.pdf)
 3. [Macro-structure of IVC](macro-structures-ivc-script.pdf)
 4. [Macro-structure of IVC - Tamil version](macro-structures-ivc-script-tamil.pdf)
+5. [Orthography of IVC script](orthography-ivc.pdf)
 
 Deciphering lines of pages in Mahadevan's book:
 
