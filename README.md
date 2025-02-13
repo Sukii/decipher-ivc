@@ -14,7 +14,10 @@ You can also get them through the Internet Archive as ebooks:
 1. [MASI 77 Indus Script Texts Concordances & Tables](https://archive.org/details/masi77indusscripttextsconcordancestablesiravathammahadevan_410_D)
 2. [A Dravidian etymological dictionary by Burrow &amp; Emaneau](https://archive.org/details/dravidianetymolo0000burr_u1k6/mode/2up)
 
+We also provide just the pages for M77 sign list:
 
+1. [M77 sign list](M77-sign-list.pdf)
+2. [Variants in M77 sign list](M77-variants.pdf)
 
 As part of decipherment we offer four PDFs:
 
