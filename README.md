@@ -26,6 +26,7 @@ As part of decipherment we offer four PDFs:
 3. [Macro-structure of IVC](macro-structures-ivc-script.pdf)
 4. [Macro-structure of IVC - Tamil version](macro-structures-ivc-script-tamil.pdf)
 5. [Orthography of IVC script](orthography-ivc.pdf)
+5. [Overlap with previous work](overlap-with-other-work.pdf)
 
 Deciphering lines of pages in Mahadevan's book:
 
