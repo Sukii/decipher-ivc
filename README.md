@@ -37,7 +37,7 @@ Deciphering lines of pages in Mahadevan's book:
 
 A full-length article embedding these findings is here:
 
-[ivc-script-decipherment-article](https://archive.org/details/ivc-script-decipherment-article_20250221)
+[ivc-script-decipherment-article](https://archive.org/details/ivc-script-decipherment-article_20250222)
 
 This article may or may not be in sync with the rest of the information in the web-site but I try to update it as soon as possible.
 
