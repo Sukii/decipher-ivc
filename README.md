@@ -19,7 +19,7 @@ We also provide just the pages for M77 sign list:
 1. [M77 sign list](M77-sign-list.pdf)
 2. [Variants in M77 sign list](M77-variants.pdf)
 
-As part of decipherment we offer four PDFs:
+As part of decipherment we offer seven PDFs:
 
 1. [The deciphermentment of IVC](ivc-script-decipherment.pdf)
 2. [Semantic decipherment of few lines of text](ivc-readings.pdf)
