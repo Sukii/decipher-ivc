@@ -24,10 +24,10 @@ As part of decipherment we offer seven PDFs:
 1. [The deciphermentment of IVC](ivc-script-decipherment.pdf)
 2. [Semantic decipherment of few lines of text](ivc-readings.pdf)
 3. [Macro-structure of IVC](macro-structures-ivc-script.pdf)
-4. [Macro-structure of IVC - Tamil version](macro-structures-ivc-script-tamil.pdf)
-5. [Orthography of IVC script](orthography-ivc.pdf)
-6. [The fish sign](fish-sign.pdf)
-7. [Overlap with previous work](overlap-with-other-work.pdf)
+4. [Orthography of IVC script](orthography-ivc.pdf)
+5. [The fish sign](fish-sign.pdf)
+6. [Overlap with previous work](overlap-with-other-work.pdf)
+7. [Description in graphics](description-in-graphics.pdf)
 
 Deciphering lines of pages in Mahadevan's book:
 
