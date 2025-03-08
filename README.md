@@ -22,17 +22,18 @@ We also provide just the pages for M77 sign list:
 As part of decipherment we offer seven PDFs:
 
 1. [The deciphermentment of IVC](ivc-script-decipherment.pdf)
-2. [Semantic decipherment of few lines of text](ivc-readings.pdf)
-3. [Macro-structure of IVC](macro-structures-ivc-script.pdf)
-4. [Orthography of IVC script](orthography-ivc.pdf)
-5. [The fish sign](fish-sign.pdf)
-6. [Overlap with previous work](overlap-with-other-work.pdf)
+2. [Macro-structure of IVC](macro-structures-ivc-script.pdf)
+3. [Orthography of IVC script](orthography-ivc.pdf)
+4. [The fish sign](fish-sign.pdf)
+5. [Overlap with previous work](overlap-with-other-work.pdf)
+6. [Farming in IVC](ivc-farming.pdf)
 7. [Description in graphics](description-in-graphics.pdf)
 
 Deciphering lines of pages in Mahadevan's book:
 
-1. [page 39](https://github.com/Sukii/decipher-ivc/blob/main/pages/p39.pdf)
-1. [page 40](https://github.com/Sukii/decipher-ivc/blob/main/pages/p40.pdf)
+1. [Semantic decipherment of few lines of text](ivc-readings.pdf)
+2. [page 39](https://github.com/Sukii/decipher-ivc/blob/main/pages/p39.pdf)
+3. [page 40](https://github.com/Sukii/decipher-ivc/blob/main/pages/p40.pdf)
 
 
 A full-length article embedding these findings is here:
