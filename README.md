@@ -36,9 +36,9 @@ Deciphering lines of pages in Mahadevan's book:
 3. [page 40](https://github.com/Sukii/decipher-ivc/blob/main/pages/p40.pdf)
 
 
-A full-length article embedding these findings is here:
+A full-length article embedding these findings (as PDF) is here:
 
-[A Dravidian decipherment of Indus script](https://archive.org/details/ivc-script-decipherment-article_20250404_1618)
+[A Dravidian decipherment of Indus script](https://archive.org/details/ivc-script-decipherment-article_20250414)
 
 [சிந்துவெளி பட-எழுத்துக்களின் திராவிட மொழி அசையெழுத்து விடையம்](https://archive.org/details/ivc-script-decipherment-article-tamil_202504)
 
