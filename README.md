@@ -36,6 +36,8 @@ Deciphering lines of pages in Mahadevan's book:
 3. [page 40](https://github.com/Sukii/decipher-ivc/blob/main/pages/p40.pdf)
 
 
+[YouTube video of Prof. M. Anandakrishnan Endowment lecture organized by the Roja Muthiah Research Library](https://www.youtube.com/live/LI4BatNlxfM?si=xp2L9H0aQmX79n1g)
+
 A full-length article embedding these findings (as PDF) is here:
 
 [A Dravidian decipherment of Indus script](https://archive.org/details/ivc-script-decipherment-article_20250602)
