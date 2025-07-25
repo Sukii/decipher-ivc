@@ -24,11 +24,11 @@ We also provide just the pages for M77 sign list:
 
 As a demostration of the decipherment we show a couple of interesting decipherments:
 
-<img src="img/flood.jpg">
+<img src="img/flood.png">
 
 <br>
 
-<img src="img/leopard.jpg">
+<img src="img/leopard.png">
 
 As part of decipherment we offer seven PDFs:
 
