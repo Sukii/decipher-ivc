@@ -19,6 +19,17 @@ We also provide just the pages for M77 sign list:
 1. [M77 sign list](M77-sign-list.pdf)
 2. [Variants in M77 sign list](M77-variants.pdf)
 
+
+# Rebus principles
+
+As a demostration of the decipherment we show a couple of interesting decipherments:
+
+<img src="img/flood.jpg">
+
+<br>
+
+<img src="img/leopard.jpg">
+
 As part of decipherment we offer seven PDFs:
 
 1. [The deciphermentment of IVC](ivc-script-decipherment.pdf)
@@ -37,6 +48,7 @@ Deciphering lines of pages in Mahadevan's book:
 
 
 [YouTube video of Prof. M. Anandakrishnan Endowment lecture organized by the Roja Muthiah Research Library](https://www.youtube.com/live/LI4BatNlxfM?si=xp2L9H0aQmX79n1g)
+
 
 A full-length article embedding these findings (as PDF) is here:
 
