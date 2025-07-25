@@ -22,7 +22,7 @@ We also provide just the pages for M77 sign list:
 
 # Rebus principles
 
-As a demostration of the decipherment we show a couple of interesting decipherments:
+As a demonstration of the decipherment we show a couple of interesting decipherments:
 
 <img src="img/flood.png">
 
