@@ -48,7 +48,10 @@ Deciphering lines of pages in Mahadevan's book:
 
 
 [YouTube video of Prof. M. Anandakrishnan Endowment lecture organized by the Roja Muthiah Research Library](https://www.youtube.com/live/LI4BatNlxfM?si=xp2L9H0aQmX79n1g)
+[RMRL presentaion as PDF](rmrl-lecture.pdf)
 
+[TUG 2025 preprint as PDF](https://tug.org/tug2025/preprints/venkatesan-writing.pdf)
+[TUG 2025 presentation as PDF](https://tug.org/tug2025/av/d2-t14-venkatesan-writing/d2-t14-venkatesan-writing-slides.pdf)
 
 A full-length article embedding these findings (as PDF) is here:
 
