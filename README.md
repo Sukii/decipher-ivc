@@ -51,8 +51,6 @@ Deciphering lines of pages in Mahadevan's book:
 
 [RMRL presentaion as PDF](rmrl-presentation.pdf)
 
-<iframe src="https://archive.org/embed/ivcx_20250817" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
 [Short video presentation of decipherment in Tamil script](https://archive.org/embed/ivcx_20250817)
 
 [TUG 2025 preprint as PDF](https://tug.org/tug2025/preprints/venkatesan-writing.pdf)
