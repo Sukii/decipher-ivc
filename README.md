@@ -51,6 +51,8 @@ Deciphering lines of pages in Mahadevan's book:
 
 [RMRL presentaion as PDF](rmrl-presentation.pdf)
 
+[Short presentation in Tamil in video format](video/ivc.mp4)
+
 [TUG 2025 preprint as PDF](https://tug.org/tug2025/preprints/venkatesan-writing.pdf)
 
 [TUG 2025 presentation as PDF](https://tug.org/tug2025/av/d2-t14-venkatesan-writing/d2-t14-venkatesan-writing-slides.pdf)
