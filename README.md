@@ -51,7 +51,7 @@ Deciphering lines of pages in Mahadevan's book:
 
 [RMRL presentaion as PDF](rmrl-presentation.pdf)
 
-<video src="video/ivc.mp4" width="500" >
+<video src='video/ivc.mp4' width='500' >
 
 [TUG 2025 preprint as PDF](https://tug.org/tug2025/preprints/venkatesan-writing.pdf)
 
