@@ -53,7 +53,7 @@ Deciphering lines of pages in Mahadevan's book:
 
 [Short video presentation of decipherment in Tamil script](https://archive.org/embed/ivcx_20250817)
 
-[![Short video presentation of decipherment in Tamil script](img/thumbnail.png)](https://archive.org/embed/ivcx_20250817)
+[![Short video presentation of decipherment in Tamil script](img/thumbnail-ivc.png)](https://archive.org/embed/ivcx_20250817)
 
 
 [TUG 2025 preprint as PDF](https://tug.org/tug2025/preprints/venkatesan-writing.pdf)
