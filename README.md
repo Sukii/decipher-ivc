@@ -51,7 +51,6 @@ Deciphering lines of pages in Mahadevan's book:
 
 [RMRL presentaion as PDF](rmrl-presentation.pdf)
 
-[Short video presentation of decipherment in Tamil script](https://archive.org/embed/ivcx_20250817)
 
 [![Short video presentation of decipherment in Tamil script](img/thumbnail-ivc.png)](https://archive.org/embed/ivcx_20250817)
 
