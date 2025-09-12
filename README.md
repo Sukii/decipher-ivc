@@ -10,7 +10,7 @@ The Indus Valley Script is a logo-syllabic script and has been mostly deciphered
 2. DED is [Dravidian Entymology Dictionary](https://dsal.uchicago.edu/dictionaries/burrow/)
 
 You can also get them through the Internet Archive as ebooks:
-
+5
 1. [MASI 77 Indus Script Texts Concordances & Tables](https://archive.org/details/masi77indusscripttextsconcordancestablesiravathammahadevan_410_D)
 2. [A Dravidian etymological dictionary by Burrow &amp; Emaneau](https://archive.org/details/dravidianetymolo0000burr_u1k6/mode/2up)
 
@@ -56,6 +56,8 @@ Deciphering lines of pages in Mahadevan's book:
 
 
 [TUG 2025 preprint as PDF](https://tug.org/tug2025/preprints/venkatesan-writing.pdf)
+
+[A Proof decipherment using Swadesh word list is here](https://github.com/Sukii/decipher-ivc/blob/main/ivc-word-freq.pdf)
 
 [TUG 2025 presentation as PDF](https://tug.org/tug2025/av/d2-t14-venkatesan-writing/d2-t14-venkatesan-writing-slides.pdf)
 
