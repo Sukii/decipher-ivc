@@ -57,7 +57,7 @@ Deciphering lines of pages in Mahadevan's book:
 
 [TUG 2025 preprint as PDF](https://tug.org/tug2025/preprints/venkatesan-writing.pdf)
 
-[A Proof decipherment using Swadesh word list is here](https://github.com/Sukii/decipher-ivc/blob/main/ivc-word-freq.pdf)
+[A proof of decipherment using Swadesh word list is here](https://github.com/Sukii/decipher-ivc/blob/main/ivc-word-freq.pdf)
 
 [TUG 2025 presentation as PDF](https://tug.org/tug2025/av/d2-t14-venkatesan-writing/d2-t14-venkatesan-writing-slides.pdf)
 
