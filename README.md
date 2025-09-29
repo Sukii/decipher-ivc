@@ -61,6 +61,9 @@ Deciphering lines of pages in Mahadevan's book:
 
 [TUG 2025 presentation as PDF](https://tug.org/tug2025/av/d2-t14-venkatesan-writing/d2-t14-venkatesan-writing-slides.pdf)
 
+[Tale of two ūrs: Sumeria and Meluhha ‒ two different cultures](https://github.com/Sukii/decipher-ivc/blob/main/two-urs.pdf)
+
+
 A full-length article embedding these findings (as PDF) is here:
 
 [A Dravidian decipherment of Indus script](https://archive.org/details/ivc-script-decipherment-article_20250602)
