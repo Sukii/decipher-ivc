@@ -63,6 +63,8 @@ Deciphering lines of pages in Mahadevan's book:
 
 [Tale of two ūrs: Sumeria and Meluhha ‒ two different cultures](https://github.com/Sukii/decipher-ivc/blob/main/two-urs.pdf)
 
+[IVC placards](https://github.com/Sukii/decipher-ivc/blob/main/ivc-placards.pdf)
+
 
 A full-length article embedding these findings (as PDF) is here:
 
