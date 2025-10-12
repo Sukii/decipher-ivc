@@ -65,6 +65,8 @@ Deciphering lines of pages in Mahadevan's book:
 
 [IVC placards](https://github.com/Sukii/decipher-ivc/blob/main/ivc-placards.pdf)
 
+[Presentaion at Madras University](https://github.com/Sukii/decipher-ivc/blob/main/tamil-ivcx.pdf)
+
 
 A full-length article embedding these findings (as PDF) is here:
 
