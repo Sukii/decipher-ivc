@@ -46,6 +46,11 @@ Deciphering lines of pages in Mahadevan's book:
 2. [page 39](https://github.com/Sukii/decipher-ivc/blob/main/pages/p39.pdf)
 3. [page 40](https://github.com/Sukii/decipher-ivc/blob/main/pages/p40.pdf)
 
+Proto-Dravidian and IVC script decipherment:
+
+1. [Proto-Dravidian and IVC decipherment](dravidian-ivc-decipherment.pdf)
+
+
 
 [YouTube video of Prof. M. Anandakrishnan Endowment lecture organized by the Roja Muthiah Research Library](https://www.youtube.com/live/LI4BatNlxfM?si=xp2L9H0aQmX79n1g)
 
