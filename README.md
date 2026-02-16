@@ -32,7 +32,7 @@ As a demonstration of the decipherment we show a couple of interesting decipherm
 
 As part of decipherment we offer seven PDFs:
 
-1. [The deciphermentment of IVC](ivc-script-decipherment.pdf)
+1. [The decipherment of IVC](ivc-script-decipherment.pdf)
 2. [Macro-structure of IVC](macro-structures-ivc-script.pdf)
 3. [Orthography of IVC script](orthography-ivc.pdf)
 4. [The fish sign](fish-sign.pdf)
