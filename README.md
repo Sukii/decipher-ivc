@@ -72,6 +72,7 @@ Proto-Dravidian and IVC script decipherment:
 
 [Presentaion at Madras University](https://github.com/Sukii/decipher-ivc/blob/main/tamil-ivcx.pdf)
 
+[Commentary on Indus society visa-vis Sumerian, Elam, Bactria, etc.](https://github.com/Sukii/decipher-ivc/blob/main/indus-society.pdf)
 
 A full-length article embedding these findings (as PDF) is here:
 
