@@ -68,6 +68,8 @@ Proto-Dravidian and IVC script decipherment:
 
 [Tale of two ūrs: Sumeria and Meluhha ‒ two different cultures](https://github.com/Sukii/decipher-ivc/blob/main/two-urs.pdf)
 
+[Comparion of Sumerian and Dravidian](https://github.com/Sukii/decipher-ivc/blob/main/sumerian-dravidian.pdf)
+
 [IVC placards](https://github.com/Sukii/decipher-ivc/blob/main/ivc-placards.pdf)
 
 [Presentaion at Madras University](https://github.com/Sukii/decipher-ivc/blob/main/tamil-ivcx.pdf)
