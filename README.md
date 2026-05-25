@@ -72,6 +72,8 @@ Proto-Dravidian and IVC script decipherment:
 
 [Comparion of Sumerian and Dravidian](https://github.com/Sukii/decipher-ivc/blob/main/sumerian-dravidian.pdf)
 
+[On the spontaneous emergence of Indus Civilization](https://github.com/Sukii/decipher-ivc/blob/main/emergence-ivc.pdf)
+
 [IVC placards](https://github.com/Sukii/decipher-ivc/blob/main/ivc-placards.pdf)
 
 [Presentaion at Madras University](https://github.com/Sukii/decipher-ivc/blob/main/tamil-ivcx.pdf)
